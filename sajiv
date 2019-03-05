@@ -1,0 +1,1 @@
+var sa = new GlideRecord('incident');
